@@ -67,10 +67,10 @@ Installing and Configuring Docker
 Section: 6
 0 / 5
 Cloud Provisioning and Configuration Management with Chef
-[ ] 30. Chef and Cloud Provisioning 3:59
-[ ] 31. Installing Knife Plugins for Amazon Web Services and Microsoft Azure 2:52
-[ ] 32. Creating and Configuring a Virtual Machine in Amazon EC2 3:54
-[ ] 33. Creating and Configuring a Virtual machine in Microsoft Azure 3:23
+[x] 30. Chef and Cloud Provisioning 3:59
+[x] 31. Installing Knife Plugins for Amazon Web Services and Microsoft Azure 2:52
+[x] 32. Creating and Configuring a Virtual Machine in Amazon EC2 3:54
+[x] 33. Creating and Configuring a Virtual machine in Microsoft Azure 3:23
 [ ] 34. Docker Containers 3:02
 
 Section: 7
