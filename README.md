@@ -71,15 +71,15 @@ Cloud Provisioning and Configuration Management with Chef
 [x] 31. Installing Knife Plugins for Amazon Web Services and Microsoft Azure 2:52
 [x] 32. Creating and Configuring a Virtual Machine in Amazon EC2 3:54
 [x] 33. Creating and Configuring a Virtual machine in Microsoft Azure 3:23
-[ ] 34. Docker Containers 3:02
+[x] 34. Docker Containers 3:02
 
 Section: 7
 0 / 4
 Deploying an Application in AWS, Azure, and Docker
-[ ] 35. Prerequisites – Deploying Our Application on a Remote Server 5:03
-[ ] 36. Deploying an Application in Docker Container 1:56
-[ ] 37. Deploying an Application in AWS 5:38
-[ ] 38. Deploying an Application in Microsoft Azure 5:17
+[x] 35. Prerequisites – Deploying Our Application on a Remote Server 5:03
+[x] 36. Deploying an Application in Docker Container 1:56
+[x] 37. Deploying an Application in AWS 5:38
+[x] 38. Deploying an Application in Microsoft Azure 5:17
 
 Section: 8
 0 / 4
